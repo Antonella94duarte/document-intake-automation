@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.vscode/
+.idea/
+# Uploaded documents (the local storage volume)
+storage/
+# Next.js
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
